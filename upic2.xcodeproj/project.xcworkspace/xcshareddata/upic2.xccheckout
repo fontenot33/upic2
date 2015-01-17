@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7BB4F3A-2C58-4D5E-9FC4-B173655DEFA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>upic2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CD601EA100DF4FB775173E1805C25244F6C7529</key>
+		<string>https://github.com/fontenot33/upic2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>upic2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CD601EA100DF4FB775173E1805C25244F6C7529</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fontenot33/upic2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CD601EA100DF4FB775173E1805C25244F6C7529</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CD601EA100DF4FB775173E1805C25244F6C7529</string>
+			<key>IDESourceControlWCCName</key>
+			<string>upic2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
